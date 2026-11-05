@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Simtabi\Laranail\Ichava\IconSetsLucide\Providers;
 
-use Simtabi\Laranail\Ichava\Support\IconPackServiceProvider;
+use Simtabi\Laranail\Ichava\Providers\IconPackServiceProvider;
 use Simtabi\Laranail\Ichava\IconSetsLucide\Constants\IconsConstants;
 use Simtabi\Laranail\Ichava\IconSetsLucide\View\Components\IconComponent;
 
