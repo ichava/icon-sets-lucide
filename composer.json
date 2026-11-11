@@ -1,6 +1,6 @@
 {
     "name": "ichava/icon-sets-lucide",
-    "description": "2,313 Lucide icons (lucide-static 1.68.0) for Laravel 13 on the Ichava icon ecosystem. Artwork ISC, with MIT for the Feather-derived icons.",
+    "description": "2,356 Lucide icons (lucide-static 1.72.0) for Laravel 13 on the Ichava icon ecosystem. Artwork ISC, with MIT for the Feather-derived icons.",
     "type": "ichava-icon-set",
     "keywords": [
         "icons",

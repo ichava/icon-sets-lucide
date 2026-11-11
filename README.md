@@ -5,7 +5,7 @@
 [![Static analysis](https://github.com/ichava/icon-sets-lucide/actions/workflows/code-quality.yml/badge.svg)](https://github.com/ichava/icon-sets-lucide/actions/workflows/code-quality.yml)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> Lucide for the Ichava Laravel icon ecosystem: 2,313 SVGs, flat, vendored from `lucide-static` 1.68.0.
+> Lucide for the Ichava Laravel icon ecosystem: 2,356 SVGs, flat, vendored from `lucide-static` 1.72.0.
 
 Requires [`ichava/core`](https://github.com/ichava/core) `^0.1` on PHP `^8.4.1 || ^8.5` and Laravel `^13`.
 
