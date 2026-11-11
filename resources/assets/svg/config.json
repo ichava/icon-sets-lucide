@@ -14,7 +14,7 @@
       "ichava"
     ],
     "version": "0.1.0",
-    "upstream_version": "1.70.0",
+    "upstream_version": "1.72.0",
     "type": "single",
     "kind": "icon",
     "license": "ISC"
@@ -52,7 +52,7 @@
       "package": "lucide-static",
       "source_path": "icons"
     },
-    "current_version": "1.70.0",
+    "current_version": "1.72.0",
     "version_check_url": "https://registry.npmjs.org/lucide-static/latest",
     "license": "ISC (MIT for the Feather-derived icons)",
     "cdn": {
@@ -71,7 +71,7 @@
     "file": "resources/assets/svg/licenses/lucide/LICENSE",
     "upstream_path": "LICENSE",
     "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
-    "checked_at": "2026-11-08",
-    "checked_version": "1.70.0"
+    "checked_at": "2026-11-11",
+    "checked_version": "1.72.0"
   }
 }
